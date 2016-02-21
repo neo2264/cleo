@@ -1,0 +1,13 @@
+#Navbar {position:fixed; top:-10px; left:-15px}
+ #logo {position:absolute; left:20px; top:50px;  }
+		#links {position:absolute; top:14px; left: 15px; }		
+		#loginText {position:absolute; right:200px; top: 15px;}
+					
+		#sidebar  {position:absolute; left:2px; top: 200px;}
+		#rows{position:absolute; left:350px; top: 500px;}
+		#rows2 {position:relative; left:350px; top: 700px;}
+		#latest {position:absolute; left:400px; top: 450px;}
+		#leftB {position:absolute; left:260px; top: 525px;}
+		#rightB  {position:absolute; right:250px; top: 525px;} 
+		
+		
